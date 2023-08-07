@@ -34,16 +34,16 @@ Regression Algorithms Used
 Home Page
 <h1 align = "center">
 
-![](https://github.com/shafingit1234/Diamond-Price-Prediction/blob/main/images/Diamond_Price_Prediction_Home_Page.png)
+![](https://github.com/shafingit1234/Diamond-Price-Prediction/blob/main/images/Diamond_Price_Prediction_Home_page.png?raw=true)
 
-<h1>
+</h1>
 
 Result
 <h1 align = "center">
 
-![](https://github.com/shafingit1234/Diamond-Price-Prediction/blob/main/images/DPD_Result.png)
+![](https://github.com/shafingit1234/Diamond-Price-Prediction/blob/main/images/DPD_Result.png?raw=true)
 
-<h1>
+</h1>
 
 
 
