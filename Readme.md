@@ -31,16 +31,16 @@ Regression Algorithms Used
     - Decision Tree Regressor
 
 # ScreenShots
-Home Page
 <h1 align = "center">
 
+Home Page
 ![](https://github.com/shafingit1234/Diamond-Price-Prediction/blob/main/images/Diamond_Price_Prediction_Home_Page.png?raw=true)
 
 </h1>
 
-Result
 <h1 align = "center">
 
+Result
 ![](https://github.com/shafingit1234/Diamond-Price-Prediction/blob/main/images/DPD_Result.png?raw=true)
 
 </h1>
