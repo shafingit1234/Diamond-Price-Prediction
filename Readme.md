@@ -1,4 +1,4 @@
-<h1 align="center"> Wafer Fault Detection Project <h1>
+<h1 align="center"> Diamond Price Prediction <h1>
 
 # Brief Overview
 Aim is to create an automated system to predict the appropriate price of a diamond based on its shape/size/color etc. Task is to create a machine learning model which can predict the price of a diamond based on its characteristics.
